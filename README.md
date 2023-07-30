@@ -14,4 +14,4 @@
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=light" />
 
 ## Framework
-<img src="https://skillicons.dev/icons?i=spring,flutter,react,svelte,bootstrap,flask&theme=light" />
+<img src="https://skillicons.dev/icons?i=spring,flutter,react,svelte,bootstrap,flask,selenium&theme=light" />
