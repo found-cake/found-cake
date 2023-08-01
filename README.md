@@ -15,3 +15,6 @@
 
 ## Framework
 <img src="https://skillicons.dev/icons?i=spring,flutter,react,svelte,bootstrap,flask,selenium&theme=light" />
+
+## github commits
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=found-cake&theme=react" />
