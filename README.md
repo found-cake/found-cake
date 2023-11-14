@@ -7,14 +7,14 @@
 <img src="https://skillicons.dev/icons?i=java,kotlin,dart,py,go,html,css,js,ts,c&perline=5&theme=light" />
 
 ## Tools
-<img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,visualstudio,postman&theme=light" />
+<img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,visualstudio,postman,selenium&theme=light" />
 <img src="https://skillicons.dev/icons?i=git,github,gradle&theme=light" />
 
 ## Database
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=light" />
 
 ## Framework
-<img src="https://skillicons.dev/icons?i=spring,flutter,react,svelte,bootstrap,flask,selenium&theme=light" />
+<img src="https://skillicons.dev/icons?i=spring,flutter,react,svelte,bootstrap,flas&theme=light" />
 
 <details>
 <summary><h2>Commit Graph</h2></summary>
