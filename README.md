@@ -4,7 +4,7 @@
 </h1>
 
 ## Languages
-<img src="https://skillicons.dev/icons?i=java,kotlin,dart,py,go,html,css,js,ts,c&perline=5&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,dart,py,go,html,css,js,ts,rust&perline=5&theme=light" />
 
 ## Tools
 <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,visualstudio,postman,selenium&theme=light" />
