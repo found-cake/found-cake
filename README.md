@@ -4,7 +4,7 @@
 </h1>
 
 # My Stat
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=found-cake&count_private=true&hide=issues&custom_title=Github Stats&hide_rank=true)](#)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=found-cake&count_private=true&hide=issues&custom_title=GithubStats&hide_rank=true)](#)
 
 ## Most Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=found-cake&layout=compact&langs_count=6)](#)
