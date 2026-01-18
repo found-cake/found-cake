@@ -1,5 +1,8 @@
 # found-cake <img src="https://render.gitanimals.org/lines/%7Bfound-cake%7D?pet-id=799949288861422928" width="192" height="108"/>
 
+## ⭐ My Stats
+![github stats](https://raw.githubusercontent.com/found-cake/found-cake/refs/heads/stats/stats.svg)
+
 ## 📫 Contacts
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@foundcake.kr)
 
