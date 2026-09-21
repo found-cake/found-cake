@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">foundcake&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 121, Total Commits  (last year) : 1319, Total PRs: 30, Total Issues: 23, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 121, Total Commits  (last year) : 1299, Total PRs: 30, Total Issues: 23, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 103.69771347360937;
+        stroke-dashoffset: 103.86513157328405;
       }
     }
   
